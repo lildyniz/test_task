@@ -1,4 +1,4 @@
-# Отклик на вакансию Intern Programmer (Game Logic)
+# Отклик на вакансию (Game Logic)
 
 ## Вопрос №1
 
